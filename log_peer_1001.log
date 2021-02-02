@@ -1,0 +1,1146 @@
+12-12-2020 23:13:55: Peer 1001 is started
+12-12-2020 23:14:06: Peer 1001 received the 'handshake' message from 1003
+12-12-2020 23:14:06: Peer 1001 is connected from 1003
+12-12-2020 23:14:06: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:06: Peer 1001 received the 'bitfield' message from 1003
+12-12-2020 23:14:06: Peer 1001 is sending the 'bitfield' message to 1003
+12-12-2020 23:14:07: Peer 1001 received the 'interested' message from  1003.
+12-12-2020 23:14:07: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:14:07: Peer 1001 is sending the 'piece' message for piece 0 to 1003
+12-12-2020 23:14:08: Peer 1001 is sending the 'piece' message for piece 1 to 1003
+12-12-2020 23:14:08: Peer 1001 is sending the 'piece' message for piece 2 to 1003
+12-12-2020 23:14:09: Peer 1001 is sending the 'piece' message for piece 3 to 1003
+12-12-2020 23:14:09: Peer 1001 is sending the 'piece' message for piece 4 to 1003
+12-12-2020 23:14:10: Peer 1001 is sending the 'piece' message for piece 5 to 1003
+12-12-2020 23:14:10: Peer 1001 is sending the 'piece' message for piece 6 to 1003
+12-12-2020 23:14:11: Peer 1001 is sending the 'piece' message for piece 7 to 1003
+12-12-2020 23:14:12: Peer 1001 is sending the 'piece' message for piece 8 to 1003
+12-12-2020 23:14:12: Peer 1001 is sending the 'piece' message for piece 9 to 1003
+12-12-2020 23:14:13: Peer 1001 is sending the 'piece' message for piece 10 to 1003
+12-12-2020 23:14:13: Peer 1001 is sending the 'piece' message for piece 11 to 1003
+12-12-2020 23:14:14: Peer 1001 is sending the 'piece' message for piece 12 to 1003
+12-12-2020 23:14:14: Peer 1001 is sending the 'piece' message for piece 13 to 1003
+12-12-2020 23:14:15: Peer 1001 is sending the 'piece' message for piece 14 to 1003
+12-12-2020 23:14:15: Peer 1001 is sending the 'piece' message for piece 15 to 1003
+12-12-2020 23:14:16: Peer 1001 is sending the 'piece' message for piece 16 to 1003
+12-12-2020 23:14:17: Peer 1001 is sending the 'piece' message for piece 17 to 1003
+12-12-2020 23:14:17: Peer 1001 is sending the 'piece' message for piece 18 to 1003
+12-12-2020 23:14:18: Peer 1001 is sending the 'piece' message for piece 19 to 1003
+12-12-2020 23:14:18: Peer 1001 received the 'handshake' message from 1008
+12-12-2020 23:14:18: Peer 1001 is connected from 1008
+12-12-2020 23:14:18: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:18: Peer 1001 is sending the 'piece' message for piece 20 to 1003
+12-12-2020 23:14:18: Peer 1001 received the 'bitfield' message from 1008
+12-12-2020 23:14:18: Peer 1001 is sending the 'bitfield' message to 1008
+12-12-2020 23:14:19: Peer 1001 is sending the 'piece' message for piece 21 to 1003
+12-12-2020 23:14:19: Peer 1001 received the 'interested' message from  1008.
+12-12-2020 23:14:19: Peer 1001 is sending the 'unchoke' message to 1008
+12-12-2020 23:14:19: Peer 1001 is sending the 'piece' message for piece 22 to 1003
+12-12-2020 23:14:19: Peer 1001 is sending the 'piece' message for piece 0 to 1008
+12-12-2020 23:14:20: Peer 1001 is sending the 'piece' message for piece 23 to 1003
+12-12-2020 23:14:20: Peer 1001 is sending the 'piece' message for piece 1 to 1008
+12-12-2020 23:14:20: Peer 1001 is sending the 'piece' message for piece 24 to 1003
+12-12-2020 23:14:20: Peer 1001 is sending the 'piece' message for piece 2 to 1008
+12-12-2020 23:14:21: Peer 1001 is sending the 'piece' message for piece 25 to 1003
+12-12-2020 23:14:21: Peer 1001 is sending the 'piece' message for piece 3 to 1008
+12-12-2020 23:14:21: Peer 1001 is sending the 'piece' message for piece 26 to 1003
+12-12-2020 23:14:21: Peer 1001 is sending the 'piece' message for piece 4 to 1008
+12-12-2020 23:14:22: Peer 1001 is sending the 'piece' message for piece 27 to 1003
+12-12-2020 23:14:22: Peer 1001 is sending the 'piece' message for piece 5 to 1008
+12-12-2020 23:14:22: Peer 1001 is sending the 'piece' message for piece 28 to 1003
+12-12-2020 23:14:22: Peer 1001 is sending the 'piece' message for piece 6 to 1008
+12-12-2020 23:14:23: Peer 1001 is sending the 'piece' message for piece 7 to 1008
+12-12-2020 23:14:23: Peer 1001 is sending the 'piece' message for piece 29 to 1003
+12-12-2020 23:14:23: Peer 1001 is sending the 'piece' message for piece 8 to 1008
+12-12-2020 23:14:23: Peer 1001 is sending the 'piece' message for piece 30 to 1003
+12-12-2020 23:14:23: Peer 1001 received the 'handshake' message from 1002
+12-12-2020 23:14:23: Peer 1001 is connected from 1002
+12-12-2020 23:14:23: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:24: Peer 1001 is sending the 'piece' message for piece 9 to 1008
+12-12-2020 23:14:24: Peer 1001 received the 'bitfield' message from 1002
+12-12-2020 23:14:24: Peer 1001 is sending the 'bitfield' message to 1002
+12-12-2020 23:14:24: Peer 1001 is sending the 'piece' message for piece 31 to 1003
+12-12-2020 23:14:24: Peer 1001 is sending the 'piece' message for piece 10 to 1008
+12-12-2020 23:14:24: Peer 1001 is sending the 'piece' message for piece 32 to 1003
+12-12-2020 23:14:24: Peer 1001 received the 'interested' message from  1002.
+12-12-2020 23:14:24: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:14:25: Peer 1001 is sending the 'piece' message for piece 11 to 1008
+12-12-2020 23:14:25: Peer 1001 is sending the 'piece' message for piece 33 to 1003
+12-12-2020 23:14:25: Peer 1001 is sending the 'piece' message for piece 0 to 1002
+12-12-2020 23:14:25: Peer 1001 is sending the 'piece' message for piece 12 to 1008
+12-12-2020 23:14:25: Peer 1001 is sending the 'piece' message for piece 34 to 1003
+12-12-2020 23:14:25: Peer 1001 is sending the 'piece' message for piece 1 to 1002
+12-12-2020 23:14:26: Peer 1001 is sending the 'piece' message for piece 13 to 1008
+12-12-2020 23:14:26: Peer 1001 is sending the 'piece' message for piece 35 to 1003
+12-12-2020 23:14:26: Peer 1001 is sending the 'piece' message for piece 2 to 1002
+12-12-2020 23:14:26: Peer 1001 is sending the 'piece' message for piece 14 to 1008
+12-12-2020 23:14:26: Peer 1001 is sending the 'piece' message for piece 36 to 1003
+12-12-2020 23:14:26: Peer 1001 is sending the 'piece' message for piece 3 to 1002
+12-12-2020 23:14:27: Peer 1001 received the 'handshake' message from 1007
+12-12-2020 23:14:27: Peer 1001 is connected from 1007
+12-12-2020 23:14:27: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:27: Peer 1001 is sending the 'piece' message for piece 15 to 1008
+12-12-2020 23:14:27: Peer 1001 is sending the 'piece' message for piece 37 to 1003
+12-12-2020 23:14:27: Peer 1001 is sending the 'piece' message for piece 4 to 1002
+12-12-2020 23:14:27: Peer 1001 received the 'bitfield' message from 1007
+12-12-2020 23:14:27: Peer 1001 is sending the 'bitfield' message to 1007
+12-12-2020 23:14:27: Peer 1001 is sending the 'piece' message for piece 38 to 1003
+12-12-2020 23:14:27: Peer 1001 is sending the 'piece' message for piece 16 to 1008
+12-12-2020 23:14:27: Peer 1001 is sending the 'piece' message for piece 5 to 1002
+12-12-2020 23:14:28: Peer 1001 is sending the 'piece' message for piece 39 to 1003
+12-12-2020 23:14:28: Peer 1001 is sending the 'piece' message for piece 17 to 1008
+12-12-2020 23:14:28: Peer 1001 is sending the 'piece' message for piece 6 to 1002
+12-12-2020 23:14:28: Peer 1001 received the 'handshake' message from 1004
+12-12-2020 23:14:28: Peer 1001 is connected from 1004
+12-12-2020 23:14:28: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:28: Peer 1001 is sending the 'piece' message for piece 40 to 1003
+12-12-2020 23:14:28: Peer 1001 is sending the 'piece' message for piece 18 to 1008
+12-12-2020 23:14:28: Peer 1001 is sending the 'piece' message for piece 7 to 1002
+12-12-2020 23:14:28: Peer 1001 received the 'bitfield' message from 1004
+12-12-2020 23:14:28: Peer 1001 is sending the 'bitfield' message to 1004
+12-12-2020 23:14:29: Peer 1001 received the 'interested' message from  1007.
+12-12-2020 23:14:29: Peer 1001 is sending the 'unchoke' message to 1007
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 41 to 1003
+12-12-2020 23:14:29: Peer 1001 received the 'interested' message from  1004.
+12-12-2020 23:14:29: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 8 to 1002
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 19 to 1008
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 1 to 1007
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 42 to 1003
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 9 to 1002
+12-12-2020 23:14:29: Peer 1001 is sending the 'piece' message for piece 20 to 1008
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 0 to 1004
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 43 to 1003
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 10 to 1002
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 2 to 1007
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 21 to 1008
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 22 to 1008
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 3 to 1007
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 44 to 1003
+12-12-2020 23:14:30: Peer 1001 is sending the 'piece' message for piece 11 to 1002
+12-12-2020 23:14:30: Peer 1001 has the preferred neighbors 1008, 1007, 1004.
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 23 to 1008
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 45 to 1003
+12-12-2020 23:14:31: Peer 1001 is sending the 'choke' message to 1003
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 4 to 1007
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 1 to 1004
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 12 to 1002
+12-12-2020 23:14:31: Peer 1001 is sending the 'choke' message to 1002
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 24 to 1008
+12-12-2020 23:14:31: Peer 1001 is sending the 'piece' message for piece 5 to 1007
+12-12-2020 23:14:32: Peer 1001 is sending the 'piece' message for piece 25 to 1008
+12-12-2020 23:14:32: Peer 1001 is sending the 'piece' message for piece 2 to 1004
+12-12-2020 23:14:32: Peer 1001 is sending the 'piece' message for piece 6 to 1007
+12-12-2020 23:14:32: Peer 1001 received the 'handshake' message from 1005
+12-12-2020 23:14:32: Peer 1001 is connected from 1005
+12-12-2020 23:14:32: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:32: Peer 1001 is sending the 'piece' message for piece 26 to 1008
+12-12-2020 23:14:32: Peer 1001 is sending the 'piece' message for piece 3 to 1004
+12-12-2020 23:14:32: Peer 1001 received the 'bitfield' message from 1005
+12-12-2020 23:14:32: Peer 1001 is sending the 'bitfield' message to 1005
+12-12-2020 23:14:32: Peer 1001 is sending the 'piece' message for piece 7 to 1007
+12-12-2020 23:14:33: Peer 1001 is sending the 'piece' message for piece 27 to 1008
+12-12-2020 23:14:33: Peer 1001 received the 'interested' message from  1005.
+12-12-2020 23:14:33: Peer 1001 is sending the 'choke' message to 1005
+12-12-2020 23:14:33: Peer 1001 is sending the 'piece' message for piece 8 to 1007
+12-12-2020 23:14:33: Peer 1001 is sending the 'piece' message for piece 4 to 1004
+12-12-2020 23:14:33: Peer 1001 is sending the 'piece' message for piece 5 to 1004
+12-12-2020 23:14:33: Peer 1001 is sending the 'piece' message for piece 9 to 1007
+12-12-2020 23:14:33: Peer 1001 received the 'handshake' message from 1009
+12-12-2020 23:14:33: Peer 1001 is connected from 1009
+12-12-2020 23:14:33: Peer 1001 is sending the 'piece' message for piece 28 to 1008
+12-12-2020 23:14:33: Peer 1001 'handshake' message has been sent successfully.
+12-12-2020 23:14:34: Peer 1001 is sending the 'piece' message for piece 10 to 1007
+12-12-2020 23:14:34: Peer 1001 is sending the 'piece' message for piece 29 to 1008
+12-12-2020 23:14:34: Peer 1001 received the 'bitfield' message from 1009
+12-12-2020 23:14:34: Peer 1001 is sending the 'bitfield' message to 1009
+12-12-2020 23:14:34: Peer 1001 is sending the 'piece' message for piece 6 to 1004
+12-12-2020 23:14:34: Peer 1001 is sending the 'piece' message for piece 30 to 1008
+12-12-2020 23:14:34: Peer 1001 is sending the 'piece' message for piece 11 to 1007
+12-12-2020 23:14:34: Peer 1001 is sending the 'piece' message for piece 7 to 1004
+12-12-2020 23:14:34: Peer 1001 received the 'interested' message from  1009.
+12-12-2020 23:14:34: Peer 1001 is sending the 'choke' message to 1009
+12-12-2020 23:14:35: Peer 1001 is sending the 'piece' message for piece 31 to 1008
+12-12-2020 23:14:35: Peer 1001 is sending the 'piece' message for piece 12 to 1007
+12-12-2020 23:14:35: Peer 1001 is sending the 'piece' message for piece 8 to 1004
+12-12-2020 23:14:35: Peer 1001 is sending the 'unchoke' message to 1009
+12-12-2020 23:14:35: Peer 1001 is sending the 'have' message to 1009
+12-12-2020 23:14:35: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:14:35: Peer 1001 has the optimistically unchoked neighbor 1003.
+12-12-2020 23:14:35: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:14:35: Peer 1001 is sending the 'have' message to 1003
+12-12-2020 23:14:35: Peer 1001 is sending the 'piece' message for piece 32 to 1008
+12-12-2020 23:14:35: Peer 1001 is sending the 'piece' message for piece 13 to 1007
+12-12-2020 23:14:35: Peer 1001 is sending the 'piece' message for piece 9 to 1004
+12-12-2020 23:14:35: Peer 1001 is sending the 'choke' message to 1004
+12-12-2020 23:14:36: Peer 1001 received the 'interested' message from  1009.
+12-12-2020 23:14:36: Peer 1001 is sending the 'unchoke' message to 1009
+12-12-2020 23:14:36: Peer 1001 received the 'interested' message from  1003.
+12-12-2020 23:14:36: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:14:36: Peer 1001 is sending the 'piece' message for piece 33 to 1008
+12-12-2020 23:14:36: Peer 1001 is sending the 'piece' message for piece 14 to 1007
+12-12-2020 23:14:36: Peer 1001 is sending the 'piece' message for piece 34 to 1008
+12-12-2020 23:14:36: Peer 1001 is sending the 'piece' message for piece 45 to 1003
+12-12-2020 23:14:36: Peer 1001 is sending the 'piece' message for piece 15 to 1007
+12-12-2020 23:14:37: Peer 1001 is sending the 'piece' message for piece 35 to 1008
+12-12-2020 23:14:37: Peer 1001 is sending the 'piece' message for piece 46 to 1003
+12-12-2020 23:14:37: Peer 1001 is sending the 'piece' message for piece 16 to 1007
+12-12-2020 23:14:37: Peer 1001 is sending the 'piece' message for piece 17 to 1007
+12-12-2020 23:14:37: Peer 1001 is sending the 'piece' message for piece 36 to 1008
+12-12-2020 23:14:37: Peer 1001 is sending the 'piece' message for piece 47 to 1003
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 18 to 1007
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 1 to 1009
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 37 to 1008
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 48 to 1003
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 19 to 1007
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 38 to 1008
+12-12-2020 23:14:38: Peer 1001 is sending the 'piece' message for piece 49 to 1003
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 2 to 1009
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 20 to 1007
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 39 to 1008
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 50 to 1003
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 3 to 1009
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 21 to 1007
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 3 to 1009
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 40 to 1008
+12-12-2020 23:14:39: Peer 1001 is sending the 'piece' message for piece 51 to 1003
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 22 to 1007
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 4 to 1009
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 4 to 1009
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 41 to 1008
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 52 to 1003
+12-12-2020 23:14:40: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 23 to 1007
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 42 to 1008
+12-12-2020 23:14:40: Peer 1001 is sending the 'piece' message for piece 53 to 1003
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 24 to 1007
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 5 to 1009
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 5 to 1009
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 43 to 1008
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 54 to 1003
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 25 to 1007
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 44 to 1008
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 55 to 1003
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 6 to 1009
+12-12-2020 23:14:41: Peer 1001 is sending the 'piece' message for piece 6 to 1009
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 7 to 1009
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 7 to 1009
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 26 to 1007
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 45 to 1008
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 56 to 1003
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 46 to 1008
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 57 to 1003
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 27 to 1007
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 8 to 1009
+12-12-2020 23:14:42: Peer 1001 is sending the 'piece' message for piece 8 to 1009
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 9 to 1009
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 9 to 1009
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 47 to 1008
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 58 to 1003
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 28 to 1007
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 59 to 1003
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 48 to 1008
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 10 to 1009
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 10 to 1009
+12-12-2020 23:14:43: Peer 1001 is sending the 'piece' message for piece 29 to 1007
+12-12-2020 23:14:44: Peer 1001 is sending the 'piece' message for piece 30 to 1007
+12-12-2020 23:14:44: Peer 1001 is sending the 'piece' message for piece 60 to 1003
+12-12-2020 23:14:44: Peer 1001 is sending the 'piece' message for piece 49 to 1008
+12-12-2020 23:14:44: Peer 1001 is sending the 'piece' message for piece 11 to 1009
+12-12-2020 23:14:44: Peer 1001 is sending the 'piece' message for piece 11 to 1009
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 12 to 1009
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 12 to 1009
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 61 to 1003
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 50 to 1008
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 31 to 1007
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 32 to 1007
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 13 to 1009
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 13 to 1009
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 62 to 1003
+12-12-2020 23:14:45: Peer 1001 is sending the 'piece' message for piece 51 to 1008
+12-12-2020 23:14:45: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:14:45: Peer 1001 has the optimistically unchoked neighbor 1004.
+12-12-2020 23:14:45: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:14:45: Peer 1001 is sending the 'have' message to 1004
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 33 to 1007
+12-12-2020 23:14:46: Peer 1001 received the 'interested' message from  1004.
+12-12-2020 23:14:46: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 63 to 1003
+12-12-2020 23:14:46: Peer 1001 is sending the 'choke' message to 1003
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 14 to 1009
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 14 to 1009
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 52 to 1008
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 34 to 1007
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 12 to 1004
+12-12-2020 23:14:46: Peer 1001 is sending the 'piece' message for piece 53 to 1008
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 35 to 1007
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 15 to 1009
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 15 to 1009
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 13 to 1004
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 54 to 1008
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 55 to 1008
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 36 to 1007
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 14 to 1004
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 17 to 1009
+12-12-2020 23:14:47: Peer 1001 is sending the 'piece' message for piece 17 to 1009
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 56 to 1008
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 37 to 1007
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 18 to 1009
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 18 to 1009
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 15 to 1004
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 57 to 1008
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 38 to 1007
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 16 to 1004
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 19 to 1009
+12-12-2020 23:14:48: Peer 1001 is sending the 'piece' message for piece 19 to 1009
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 58 to 1008
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 39 to 1007
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 20 to 1009
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 20 to 1009
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 17 to 1004
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 59 to 1008
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 40 to 1007
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 18 to 1004
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 21 to 1009
+12-12-2020 23:14:49: Peer 1001 is sending the 'piece' message for piece 21 to 1009
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 60 to 1008
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 41 to 1007
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 22 to 1009
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 22 to 1009
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 19 to 1004
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 61 to 1008
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 42 to 1007
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 23 to 1009
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 23 to 1009
+12-12-2020 23:14:50: Peer 1001 is sending the 'piece' message for piece 20 to 1004
+12-12-2020 23:14:50: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 62 to 1008
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 24 to 1009
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 43 to 1007
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 24 to 1009
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 21 to 1004
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 63 to 1008
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 44 to 1007
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 25 to 1009
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 25 to 1009
+12-12-2020 23:14:51: Peer 1001 is sending the 'piece' message for piece 22 to 1004
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 64 to 1008
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 45 to 1007
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 23 to 1004
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 26 to 1009
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 26 to 1009
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 27 to 1009
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 65 to 1008
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 27 to 1009
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 46 to 1007
+12-12-2020 23:14:52: Peer 1001 is sending the 'piece' message for piece 24 to 1004
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 66 to 1008
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 47 to 1007
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 28 to 1009
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 28 to 1009
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 25 to 1004
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 29 to 1009
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 29 to 1009
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 67 to 1008
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 48 to 1007
+12-12-2020 23:14:53: Peer 1001 is sending the 'piece' message for piece 26 to 1004
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 68 to 1008
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 30 to 1009
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 30 to 1009
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 49 to 1007
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 27 to 1004
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 28 to 1004
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 69 to 1008
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 31 to 1009
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 31 to 1009
+12-12-2020 23:14:54: Peer 1001 is sending the 'piece' message for piece 50 to 1007
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 29 to 1004
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 70 to 1008
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 51 to 1007
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 32 to 1009
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 32 to 1009
+12-12-2020 23:14:55: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:14:55: Peer 1001 has the optimistically unchoked neighbor 1002.
+12-12-2020 23:14:55: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:14:55: Peer 1001 is sending the 'have' message to 1002
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 30 to 1004
+12-12-2020 23:14:55: Peer 1001 is sending the 'choke' message to 1004
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 71 to 1008
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 33 to 1009
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 33 to 1009
+12-12-2020 23:14:55: Peer 1001 is sending the 'piece' message for piece 52 to 1007
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 53 to 1007
+12-12-2020 23:14:56: Peer 1001 received the 'interested' message from  1002.
+12-12-2020 23:14:56: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 72 to 1008
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 34 to 1009
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 34 to 1009
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 54 to 1007
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 12 to 1002
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 73 to 1008
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 35 to 1009
+12-12-2020 23:14:56: Peer 1001 is sending the 'piece' message for piece 35 to 1009
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 55 to 1007
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 36 to 1009
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 36 to 1009
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 13 to 1002
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 74 to 1008
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 56 to 1007
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 37 to 1009
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 37 to 1009
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 14 to 1002
+12-12-2020 23:14:57: Peer 1001 is sending the 'piece' message for piece 75 to 1008
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 57 to 1007
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 15 to 1002
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 76 to 1008
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 38 to 1009
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 38 to 1009
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 39 to 1009
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 39 to 1009
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 77 to 1008
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 16 to 1002
+12-12-2020 23:14:58: Peer 1001 is sending the 'piece' message for piece 58 to 1007
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 78 to 1008
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 17 to 1002
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 59 to 1007
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 40 to 1009
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 40 to 1009
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 41 to 1009
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 41 to 1009
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 79 to 1008
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 18 to 1002
+12-12-2020 23:14:59: Peer 1001 is sending the 'piece' message for piece 60 to 1007
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 42 to 1009
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 42 to 1009
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 80 to 1008
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 19 to 1002
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 61 to 1007
+12-12-2020 23:15:00: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 62 to 1007
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 81 to 1008
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 20 to 1002
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 43 to 1009
+12-12-2020 23:15:00: Peer 1001 is sending the 'piece' message for piece 43 to 1009
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 44 to 1009
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 44 to 1009
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 63 to 1007
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 82 to 1008
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 21 to 1002
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 64 to 1007
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 45 to 1009
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 45 to 1009
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 83 to 1008
+12-12-2020 23:15:01: Peer 1001 is sending the 'piece' message for piece 22 to 1002
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 65 to 1007
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 46 to 1009
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 46 to 1009
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 84 to 1008
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 23 to 1002
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 66 to 1007
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 85 to 1008
+12-12-2020 23:15:02: Peer 1001 is sending the 'piece' message for piece 24 to 1002
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 47 to 1009
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 47 to 1009
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 86 to 1008
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 67 to 1007
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 25 to 1002
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 48 to 1009
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 48 to 1009
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 87 to 1008
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 26 to 1002
+12-12-2020 23:15:03: Peer 1001 is sending the 'piece' message for piece 68 to 1007
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 69 to 1007
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 88 to 1008
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 27 to 1002
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 49 to 1009
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 50 to 1009
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 70 to 1007
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 50 to 1009
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 89 to 1008
+12-12-2020 23:15:04: Peer 1001 is sending the 'piece' message for piece 28 to 1002
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 71 to 1007
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 90 to 1008
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 29 to 1002
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 51 to 1009
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 51 to 1009
+12-12-2020 23:15:05: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:15:05: Peer 1001 has the optimistically unchoked neighbor 1003.
+12-12-2020 23:15:05: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:15:05: Peer 1001 is sending the 'have' message to 1003
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 52 to 1009
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 52 to 1009
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 72 to 1007
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 91 to 1008
+12-12-2020 23:15:05: Peer 1001 is sending the 'piece' message for piece 30 to 1002
+12-12-2020 23:15:05: Peer 1001 is sending the 'choke' message to 1002
+12-12-2020 23:15:06: Peer 1001 received the 'interested' message from  1003.
+12-12-2020 23:15:06: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 73 to 1007
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 53 to 1009
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 53 to 1009
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 92 to 1008
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 74 to 1007
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 63 to 1003
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 93 to 1008
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 54 to 1009
+12-12-2020 23:15:06: Peer 1001 is sending the 'piece' message for piece 54 to 1009
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 75 to 1007
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 64 to 1003
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 55 to 1009
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 55 to 1009
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 94 to 1008
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 56 to 1009
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 56 to 1009
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 65 to 1003
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 76 to 1007
+12-12-2020 23:15:07: Peer 1001 is sending the 'piece' message for piece 95 to 1008
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 57 to 1009
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 57 to 1009
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 66 to 1003
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 77 to 1007
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 96 to 1008
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 67 to 1003
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 78 to 1007
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 97 to 1008
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 58 to 1009
+12-12-2020 23:15:08: Peer 1001 is sending the 'piece' message for piece 58 to 1009
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 59 to 1009
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 59 to 1009
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 68 to 1003
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 79 to 1007
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 98 to 1008
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 99 to 1008
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 60 to 1009
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 60 to 1009
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 69 to 1003
+12-12-2020 23:15:09: Peer 1001 is sending the 'piece' message for piece 80 to 1007
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 100 to 1008
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 61 to 1009
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 61 to 1009
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 70 to 1003
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 81 to 1007
+12-12-2020 23:15:10: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 101 to 1008
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 71 to 1003
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 62 to 1009
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 62 to 1009
+12-12-2020 23:15:10: Peer 1001 is sending the 'piece' message for piece 82 to 1007
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 102 to 1008
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 72 to 1003
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 63 to 1009
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 63 to 1009
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 83 to 1007
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 103 to 1008
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 73 to 1003
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 64 to 1009
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 64 to 1009
+12-12-2020 23:15:11: Peer 1001 is sending the 'piece' message for piece 84 to 1007
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 85 to 1007
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 104 to 1008
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 74 to 1003
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 65 to 1009
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 65 to 1009
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 66 to 1009
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 66 to 1009
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 86 to 1007
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 105 to 1008
+12-12-2020 23:15:12: Peer 1001 is sending the 'piece' message for piece 75 to 1003
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 87 to 1007
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 67 to 1009
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 67 to 1009
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 106 to 1008
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 76 to 1003
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 88 to 1007
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 107 to 1008
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 68 to 1009
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 68 to 1009
+12-12-2020 23:15:13: Peer 1001 is sending the 'piece' message for piece 77 to 1003
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 89 to 1007
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 108 to 1008
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 69 to 1009
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 69 to 1009
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 78 to 1003
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 90 to 1007
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 109 to 1008
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 79 to 1003
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 70 to 1009
+12-12-2020 23:15:14: Peer 1001 is sending the 'piece' message for piece 70 to 1009
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 71 to 1009
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 71 to 1009
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 91 to 1007
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 110 to 1008
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 80 to 1003
+12-12-2020 23:15:15: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:15:15: Peer 1001 has the optimistically unchoked neighbor 1004.
+12-12-2020 23:15:15: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:15:15: Peer 1001 is sending the 'have' message to 1004
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 72 to 1009
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 72 to 1009
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 92 to 1007
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 111 to 1008
+12-12-2020 23:15:15: Peer 1001 is sending the 'piece' message for piece 81 to 1003
+12-12-2020 23:15:15: Peer 1001 is sending the 'choke' message to 1003
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 73 to 1009
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 73 to 1009
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 93 to 1007
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 112 to 1008
+12-12-2020 23:15:16: Peer 1001 received the 'interested' message from  1004.
+12-12-2020 23:15:16: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 74 to 1009
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 74 to 1009
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 94 to 1007
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 113 to 1008
+12-12-2020 23:15:16: Peer 1001 is sending the 'piece' message for piece 32 to 1004
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 95 to 1007
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 75 to 1009
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 75 to 1009
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 114 to 1008
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 33 to 1004
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 96 to 1007
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 115 to 1008
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 76 to 1009
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 76 to 1009
+12-12-2020 23:15:17: Peer 1001 is sending the 'piece' message for piece 34 to 1004
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 97 to 1007
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 116 to 1008
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 35 to 1004
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 77 to 1009
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 77 to 1009
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 78 to 1009
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 78 to 1009
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 98 to 1007
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 117 to 1008
+12-12-2020 23:15:18: Peer 1001 is sending the 'piece' message for piece 36 to 1004
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 79 to 1009
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 79 to 1009
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 99 to 1007
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 118 to 1008
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 37 to 1004
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 80 to 1009
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 100 to 1007
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 80 to 1009
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 119 to 1008
+12-12-2020 23:15:19: Peer 1001 is sending the 'piece' message for piece 38 to 1004
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 101 to 1007
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 120 to 1008
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 81 to 1009
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 81 to 1009
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 39 to 1004
+12-12-2020 23:15:20: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 82 to 1009
+12-12-2020 23:15:20: Peer 1001 is sending the 'piece' message for piece 82 to 1009
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 102 to 1007
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 121 to 1008
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 40 to 1004
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 83 to 1009
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 83 to 1009
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 103 to 1007
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 122 to 1008
+12-12-2020 23:15:21: Peer 1001 is sending the 'piece' message for piece 41 to 1004
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 104 to 1007
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 123 to 1008
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 42 to 1004
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 84 to 1009
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 84 to 1009
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 105 to 1007
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 124 to 1008
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 43 to 1004
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 85 to 1009
+12-12-2020 23:15:22: Peer 1001 is sending the 'piece' message for piece 85 to 1009
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 106 to 1007
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 125 to 1008
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 44 to 1004
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 86 to 1009
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 86 to 1009
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 107 to 1007
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 126 to 1008
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 45 to 1004
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 87 to 1009
+12-12-2020 23:15:23: Peer 1001 is sending the 'piece' message for piece 87 to 1009
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 88 to 1009
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 88 to 1009
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 108 to 1007
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 127 to 1008
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 46 to 1004
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 89 to 1009
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 89 to 1009
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 109 to 1007
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 128 to 1008
+12-12-2020 23:15:24: Peer 1001 is sending the 'piece' message for piece 47 to 1004
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 90 to 1009
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 90 to 1009
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 110 to 1007
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 129 to 1008
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 48 to 1004
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 91 to 1009
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 91 to 1009
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 111 to 1007
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 130 to 1008
+12-12-2020 23:15:25: Peer 1001 is sending the 'piece' message for piece 49 to 1004
+12-12-2020 23:15:25: Peer 1001 has the preferred neighbors 1009, 1008, 1007.
+12-12-2020 23:15:25: Peer 1001 has the optimistically unchoked neighbor 1005.
+12-12-2020 23:15:25: Peer 1001 is sending the 'unchoke' message to 1005
+12-12-2020 23:15:25: Peer 1001 is sending the 'have' message to 1005
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 112 to 1007
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 131 to 1008
+12-12-2020 23:15:26: Peer 1001 received the 'interested' message from  1005.
+12-12-2020 23:15:26: Peer 1001 is sending the 'unchoke' message to 1005
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 92 to 1009
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 92 to 1009
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 50 to 1004
+12-12-2020 23:15:26: Peer 1001 is sending the 'choke' message to 1004
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 113 to 1007
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 132 to 1008
+12-12-2020 23:15:26: Peer 1001 is sending the 'piece' message for piece 48 to 1005
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 93 to 1009
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 93 to 1009
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 114 to 1007
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 133 to 1008
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 49 to 1005
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 94 to 1009
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 94 to 1009
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 115 to 1007
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 134 to 1008
+12-12-2020 23:15:27: Peer 1001 is sending the 'piece' message for piece 50 to 1005
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 95 to 1009
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 116 to 1007
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 95 to 1009
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 51 to 1005
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 52 to 1005
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 117 to 1007
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 96 to 1009
+12-12-2020 23:15:28: Peer 1001 is sending the 'piece' message for piece 96 to 1009
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 97 to 1009
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 97 to 1009
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 118 to 1007
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 53 to 1005
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 98 to 1009
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 98 to 1009
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 119 to 1007
+12-12-2020 23:15:29: Peer 1001 is sending the 'piece' message for piece 54 to 1005
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 99 to 1009
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 99 to 1009
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 120 to 1007
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 55 to 1005
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 56 to 1005
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 100 to 1009
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 100 to 1009
+12-12-2020 23:15:30: Peer 1001 is sending the 'piece' message for piece 121 to 1007
+12-12-2020 23:15:30: Peer 1001 has the preferred neighbors 1009, 1007, 1005.
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 57 to 1005
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 101 to 1009
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 101 to 1009
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 122 to 1007
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 58 to 1005
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 123 to 1007
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 102 to 1009
+12-12-2020 23:15:31: Peer 1001 is sending the 'piece' message for piece 102 to 1009
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 103 to 1009
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 103 to 1009
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 59 to 1005
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 124 to 1007
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 60 to 1005
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 104 to 1009
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 104 to 1009
+12-12-2020 23:15:32: Peer 1001 is sending the 'piece' message for piece 125 to 1007
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 61 to 1005
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 126 to 1007
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 105 to 1009
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 106 to 1009
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 106 to 1009
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 62 to 1005
+12-12-2020 23:15:33: Peer 1001 is sending the 'piece' message for piece 127 to 1007
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 107 to 1009
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 107 to 1009
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 63 to 1005
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 128 to 1007
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 108 to 1009
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 108 to 1009
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 64 to 1005
+12-12-2020 23:15:34: Peer 1001 is sending the 'piece' message for piece 129 to 1007
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 65 to 1005
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 109 to 1009
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 109 to 1009
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 130 to 1007
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 66 to 1005
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 110 to 1009
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 110 to 1009
+12-12-2020 23:15:35: Peer 1001 is sending the 'piece' message for piece 131 to 1007
+12-12-2020 23:15:35: Peer 1001 has the preferred neighbors 1009, 1007, 1005.
+12-12-2020 23:15:35: Peer 1001 has the optimistically unchoked neighbor 1004.
+12-12-2020 23:15:35: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:15:35: Peer 1001 is sending the 'have' message to 1004
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 111 to 1009
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 111 to 1009
+12-12-2020 23:15:36: Peer 1001 received the 'interested' message from  1004.
+12-12-2020 23:15:36: Peer 1001 is sending the 'unchoke' message to 1004
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 67 to 1005
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 132 to 1007
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 112 to 1009
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 112 to 1009
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 67 to 1004
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 68 to 1005
+12-12-2020 23:15:36: Peer 1001 is sending the 'piece' message for piece 133 to 1007
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 68 to 1004
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 113 to 1009
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 113 to 1009
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 69 to 1005
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 134 to 1007
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 69 to 1004
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 114 to 1009
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 114 to 1009
+12-12-2020 23:15:37: Peer 1001 is sending the 'piece' message for piece 70 to 1005
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 70 to 1004
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 115 to 1009
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 115 to 1009
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 71 to 1005
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 72 to 1005
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 71 to 1004
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 116 to 1009
+12-12-2020 23:15:38: Peer 1001 is sending the 'piece' message for piece 116 to 1009
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 117 to 1009
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 117 to 1009
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 73 to 1005
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 72 to 1004
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 118 to 1009
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 118 to 1009
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 74 to 1005
+12-12-2020 23:15:39: Peer 1001 is sending the 'piece' message for piece 73 to 1004
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 75 to 1005
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 119 to 1009
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 119 to 1009
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 74 to 1004
+12-12-2020 23:15:40: Peer 1001 has the preferred neighbors 1009, 1005, 1004.
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 76 to 1005
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 120 to 1009
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 120 to 1009
+12-12-2020 23:15:40: Peer 1001 is sending the 'piece' message for piece 75 to 1004
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 77 to 1005
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 76 to 1004
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 121 to 1009
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 121 to 1009
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 77 to 1004
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 78 to 1005
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 122 to 1009
+12-12-2020 23:15:41: Peer 1001 is sending the 'piece' message for piece 122 to 1009
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 79 to 1005
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 78 to 1004
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 123 to 1009
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 123 to 1009
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 80 to 1005
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 79 to 1004
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 124 to 1009
+12-12-2020 23:15:42: Peer 1001 is sending the 'piece' message for piece 124 to 1009
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 80 to 1004
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 81 to 1005
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 125 to 1009
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 125 to 1009
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 126 to 1009
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 126 to 1009
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 81 to 1004
+12-12-2020 23:15:43: Peer 1001 is sending the 'piece' message for piece 82 to 1005
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 127 to 1009
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 127 to 1009
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 82 to 1004
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 83 to 1005
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 128 to 1009
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 128 to 1009
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 83 to 1004
+12-12-2020 23:15:44: Peer 1001 is sending the 'piece' message for piece 84 to 1005
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 85 to 1005
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 84 to 1004
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 129 to 1009
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 129 to 1009
+12-12-2020 23:15:45: Peer 1001 has the preferred neighbors 1009, 1005, 1004.
+12-12-2020 23:15:45: Peer 1001 has the optimistically unchoked neighbor 1002.
+12-12-2020 23:15:45: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:15:45: Peer 1001 is sending the 'have' message to 1002
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 130 to 1009
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 130 to 1009
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 86 to 1005
+12-12-2020 23:15:45: Peer 1001 is sending the 'piece' message for piece 85 to 1004
+12-12-2020 23:15:46: Peer 1001 received the 'interested' message from  1002.
+12-12-2020 23:15:46: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 131 to 1009
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 87 to 1005
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 131 to 1009
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 86 to 1004
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 30 to 1002
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 88 to 1005
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 132 to 1009
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 132 to 1009
+12-12-2020 23:15:46: Peer 1001 is sending the 'piece' message for piece 87 to 1004
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 31 to 1002
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 89 to 1005
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 133 to 1009
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 133 to 1009
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 88 to 1004
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 32 to 1002
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 90 to 1005
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 134 to 1009
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 134 to 1009
+12-12-2020 23:15:47: Peer 1001 is sending the 'piece' message for piece 89 to 1004
+12-12-2020 23:15:48: Peer 1001 is sending the 'piece' message for piece 33 to 1002
+12-12-2020 23:15:48: Peer 1001 is sending the 'piece' message for piece 91 to 1005
+12-12-2020 23:15:48: Peer 1001 is sending the 'piece' message for piece 90 to 1004
+12-12-2020 23:15:48: Peer 1001 is sending the 'piece' message for piece 34 to 1002
+12-12-2020 23:15:48: Peer 1001 is sending the 'piece' message for piece 92 to 1005
+12-12-2020 23:15:48: Peer 1001 is sending the 'piece' message for piece 91 to 1004
+12-12-2020 23:15:49: Peer 1001 is sending the 'piece' message for piece 35 to 1002
+12-12-2020 23:15:49: Peer 1001 is sending the 'piece' message for piece 93 to 1005
+12-12-2020 23:15:49: Peer 1001 is sending the 'piece' message for piece 92 to 1004
+12-12-2020 23:15:49: Peer 1001 is sending the 'piece' message for piece 36 to 1002
+12-12-2020 23:15:49: Peer 1001 is sending the 'piece' message for piece 94 to 1005
+12-12-2020 23:15:50: Peer 1001 is sending the 'piece' message for piece 93 to 1004
+12-12-2020 23:15:50: Peer 1001 is sending the 'piece' message for piece 37 to 1002
+12-12-2020 23:15:50: Peer 1001 is sending the 'piece' message for piece 95 to 1005
+12-12-2020 23:15:50: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:15:50: Peer 1001 is sending the 'have' message to 1003
+12-12-2020 23:15:50: Peer 1001 has the preferred neighbors 1005, 1004, 1003.
+12-12-2020 23:15:50: Peer 1001 is sending the 'piece' message for piece 38 to 1002
+12-12-2020 23:15:50: Peer 1001 is sending the 'piece' message for piece 94 to 1004
+12-12-2020 23:15:50: Peer 1001 is sending the 'piece' message for piece 96 to 1005
+12-12-2020 23:15:51: Peer 1001 received the 'interested' message from  1003.
+12-12-2020 23:15:51: Peer 1001 is sending the 'unchoke' message to 1003
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 39 to 1002
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 95 to 1004
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 97 to 1005
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 81 to 1003
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 40 to 1002
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 96 to 1004
+12-12-2020 23:15:51: Peer 1001 is sending the 'piece' message for piece 98 to 1005
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 82 to 1003
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 41 to 1002
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 97 to 1004
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 99 to 1005
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 83 to 1003
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 42 to 1002
+12-12-2020 23:15:52: Peer 1001 is sending the 'piece' message for piece 98 to 1004
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 100 to 1005
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 84 to 1003
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 43 to 1002
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 99 to 1004
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 85 to 1003
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 101 to 1005
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 44 to 1002
+12-12-2020 23:15:53: Peer 1001 is sending the 'piece' message for piece 100 to 1004
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 101 to 1004
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 86 to 1003
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 102 to 1005
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 45 to 1002
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 102 to 1004
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 87 to 1003
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 103 to 1005
+12-12-2020 23:15:54: Peer 1001 is sending the 'piece' message for piece 46 to 1002
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 88 to 1003
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 103 to 1004
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 104 to 1005
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 47 to 1002
+12-12-2020 23:15:55: Peer 1001 has the preferred neighbors 1005, 1004, 1003.
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 89 to 1003
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 104 to 1004
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 48 to 1002
+12-12-2020 23:15:55: Peer 1001 is sending the 'choke' message to 1002
+12-12-2020 23:15:55: Peer 1001 is sending the 'piece' message for piece 105 to 1005
+12-12-2020 23:15:56: Peer 1001 is sending the 'piece' message for piece 90 to 1003
+12-12-2020 23:15:56: Peer 1001 is sending the 'piece' message for piece 105 to 1004
+12-12-2020 23:15:56: Peer 1001 is sending the 'piece' message for piece 106 to 1005
+12-12-2020 23:15:56: Peer 1001 is sending the 'piece' message for piece 91 to 1003
+12-12-2020 23:15:56: Peer 1001 is sending the 'piece' message for piece 106 to 1004
+12-12-2020 23:15:56: Peer 1001 is sending the 'piece' message for piece 107 to 1005
+12-12-2020 23:15:57: Peer 1001 is sending the 'piece' message for piece 92 to 1003
+12-12-2020 23:15:57: Peer 1001 is sending the 'piece' message for piece 107 to 1004
+12-12-2020 23:15:57: Peer 1001 is sending the 'piece' message for piece 108 to 1005
+12-12-2020 23:15:57: Peer 1001 is sending the 'piece' message for piece 93 to 1003
+12-12-2020 23:15:57: Peer 1001 is sending the 'piece' message for piece 108 to 1004
+12-12-2020 23:15:57: Peer 1001 is sending the 'piece' message for piece 109 to 1005
+12-12-2020 23:15:58: Peer 1001 is sending the 'piece' message for piece 94 to 1003
+12-12-2020 23:15:58: Peer 1001 is sending the 'piece' message for piece 110 to 1005
+12-12-2020 23:15:58: Peer 1001 is sending the 'piece' message for piece 109 to 1004
+12-12-2020 23:15:58: Peer 1001 is sending the 'piece' message for piece 95 to 1003
+12-12-2020 23:15:58: Peer 1001 is sending the 'piece' message for piece 111 to 1005
+12-12-2020 23:15:58: Peer 1001 is sending the 'piece' message for piece 110 to 1004
+12-12-2020 23:15:59: Peer 1001 is sending the 'piece' message for piece 96 to 1003
+12-12-2020 23:15:59: Peer 1001 is sending the 'piece' message for piece 112 to 1005
+12-12-2020 23:15:59: Peer 1001 is sending the 'piece' message for piece 111 to 1004
+12-12-2020 23:15:59: Peer 1001 is sending the 'piece' message for piece 97 to 1003
+12-12-2020 23:15:59: Peer 1001 is sending the 'piece' message for piece 113 to 1005
+12-12-2020 23:15:59: Peer 1001 is sending the 'piece' message for piece 112 to 1004
+12-12-2020 23:16:00: Peer 1001 is sending the 'piece' message for piece 98 to 1003
+12-12-2020 23:16:00: Peer 1001 is sending the 'piece' message for piece 113 to 1004
+12-12-2020 23:16:00: Peer 1001 is sending the 'piece' message for piece 114 to 1005
+12-12-2020 23:16:00: Peer 1001 has the preferred neighbors 1005, 1004, 1003.
+12-12-2020 23:16:00: Peer 1001 is sending the 'piece' message for piece 114 to 1004
+12-12-2020 23:16:00: Peer 1001 is sending the 'piece' message for piece 99 to 1003
+12-12-2020 23:16:00: Peer 1001 is sending the 'piece' message for piece 115 to 1005
+12-12-2020 23:16:01: Peer 1001 is sending the 'piece' message for piece 115 to 1004
+12-12-2020 23:16:01: Peer 1001 is sending the 'piece' message for piece 100 to 1003
+12-12-2020 23:16:01: Peer 1001 is sending the 'piece' message for piece 116 to 1005
+12-12-2020 23:16:01: Peer 1001 is sending the 'piece' message for piece 116 to 1004
+12-12-2020 23:16:01: Peer 1001 is sending the 'piece' message for piece 101 to 1003
+12-12-2020 23:16:01: Peer 1001 is sending the 'piece' message for piece 117 to 1005
+12-12-2020 23:16:02: Peer 1001 is sending the 'piece' message for piece 102 to 1003
+12-12-2020 23:16:02: Peer 1001 is sending the 'piece' message for piece 117 to 1004
+12-12-2020 23:16:02: Peer 1001 is sending the 'piece' message for piece 118 to 1005
+12-12-2020 23:16:02: Peer 1001 is sending the 'piece' message for piece 103 to 1003
+12-12-2020 23:16:02: Peer 1001 is sending the 'piece' message for piece 118 to 1004
+12-12-2020 23:16:02: Peer 1001 is sending the 'piece' message for piece 119 to 1005
+12-12-2020 23:16:03: Peer 1001 is sending the 'piece' message for piece 104 to 1003
+12-12-2020 23:16:03: Peer 1001 is sending the 'piece' message for piece 119 to 1004
+12-12-2020 23:16:03: Peer 1001 is sending the 'piece' message for piece 120 to 1005
+12-12-2020 23:16:03: Peer 1001 is sending the 'piece' message for piece 105 to 1003
+12-12-2020 23:16:03: Peer 1001 is sending the 'piece' message for piece 120 to 1004
+12-12-2020 23:16:03: Peer 1001 is sending the 'piece' message for piece 121 to 1005
+12-12-2020 23:16:04: Peer 1001 is sending the 'piece' message for piece 106 to 1003
+12-12-2020 23:16:04: Peer 1001 is sending the 'piece' message for piece 121 to 1004
+12-12-2020 23:16:04: Peer 1001 is sending the 'piece' message for piece 122 to 1005
+12-12-2020 23:16:04: Peer 1001 is sending the 'piece' message for piece 107 to 1003
+12-12-2020 23:16:04: Peer 1001 is sending the 'piece' message for piece 122 to 1004
+12-12-2020 23:16:04: Peer 1001 is sending the 'piece' message for piece 123 to 1005
+12-12-2020 23:16:05: Peer 1001 is sending the 'piece' message for piece 108 to 1003
+12-12-2020 23:16:05: Peer 1001 is sending the 'piece' message for piece 123 to 1004
+12-12-2020 23:16:05: Peer 1001 is sending the 'piece' message for piece 124 to 1005
+12-12-2020 23:16:05: Peer 1001 has the preferred neighbors 1005, 1004, 1003.
+12-12-2020 23:16:05: Peer 1001 has the optimistically unchoked neighbor 1002.
+12-12-2020 23:16:05: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:16:05: Peer 1001 is sending the 'have' message to 1002
+12-12-2020 23:16:05: Peer 1001 is sending the 'piece' message for piece 109 to 1003
+12-12-2020 23:16:05: Peer 1001 is sending the 'piece' message for piece 124 to 1004
+12-12-2020 23:16:05: Peer 1001 is sending the 'piece' message for piece 125 to 1005
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 110 to 1003
+12-12-2020 23:16:06: Peer 1001 received the 'interested' message from  1002.
+12-12-2020 23:16:06: Peer 1001 is sending the 'unchoke' message to 1002
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 125 to 1004
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 126 to 1005
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 111 to 1003
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 48 to 1002
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 126 to 1004
+12-12-2020 23:16:06: Peer 1001 is sending the 'piece' message for piece 127 to 1005
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 112 to 1003
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 49 to 1002
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 127 to 1004
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 128 to 1005
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 113 to 1003
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 50 to 1002
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 128 to 1004
+12-12-2020 23:16:07: Peer 1001 is sending the 'piece' message for piece 129 to 1005
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 114 to 1003
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 51 to 1002
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 129 to 1004
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 130 to 1005
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 131 to 1005
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 115 to 1003
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 52 to 1002
+12-12-2020 23:16:08: Peer 1001 is sending the 'piece' message for piece 130 to 1004
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 132 to 1005
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 116 to 1003
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 53 to 1002
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 131 to 1004
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 117 to 1003
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 133 to 1005
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 54 to 1002
+12-12-2020 23:16:09: Peer 1001 is sending the 'piece' message for piece 132 to 1004
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 118 to 1003
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 134 to 1005
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 55 to 1002
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 133 to 1004
+12-12-2020 23:16:10: Peer 1001 has the preferred neighbors 1005, 1004, 1003.
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 119 to 1003
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 56 to 1002
+12-12-2020 23:16:10: Peer 1001 is sending the 'piece' message for piece 134 to 1004
+12-12-2020 23:16:11: Peer 1001 is sending the 'piece' message for piece 120 to 1003
+12-12-2020 23:16:11: Peer 1001 is sending the 'piece' message for piece 57 to 1002
+12-12-2020 23:16:11: Peer 1001 is sending the 'piece' message for piece 121 to 1003
+12-12-2020 23:16:11: Peer 1001 is sending the 'piece' message for piece 58 to 1002
+12-12-2020 23:16:12: Peer 1001 is sending the 'piece' message for piece 122 to 1003
+12-12-2020 23:16:12: Peer 1001 is sending the 'piece' message for piece 59 to 1002
+12-12-2020 23:16:12: Peer 1001 is sending the 'piece' message for piece 123 to 1003
+12-12-2020 23:16:12: Peer 1001 is sending the 'piece' message for piece 60 to 1002
+12-12-2020 23:16:13: Peer 1001 is sending the 'piece' message for piece 124 to 1003
+12-12-2020 23:16:13: Peer 1001 is sending the 'piece' message for piece 61 to 1002
+12-12-2020 23:16:13: Peer 1001 is sending the 'piece' message for piece 125 to 1003
+12-12-2020 23:16:13: Peer 1001 is sending the 'piece' message for piece 62 to 1002
+12-12-2020 23:16:14: Peer 1001 is sending the 'piece' message for piece 126 to 1003
+12-12-2020 23:16:14: Peer 1001 is sending the 'piece' message for piece 63 to 1002
+12-12-2020 23:16:14: Peer 1001 is sending the 'piece' message for piece 127 to 1003
+12-12-2020 23:16:14: Peer 1001 is sending the 'piece' message for piece 64 to 1002
+12-12-2020 23:16:15: Peer 1001 is sending the 'piece' message for piece 128 to 1003
+12-12-2020 23:16:15: Peer 1001 is sending the 'piece' message for piece 65 to 1002
+12-12-2020 23:16:15: Peer 1001 has the preferred neighbors 1002.
+12-12-2020 23:16:16: Peer 1001 is sending the 'piece' message for piece 129 to 1003
+12-12-2020 23:16:16: Peer 1001 is sending the 'piece' message for piece 66 to 1002
+12-12-2020 23:16:16: Peer 1001 is sending the 'piece' message for piece 130 to 1003
+12-12-2020 23:16:16: Peer 1001 is sending the 'piece' message for piece 67 to 1002
+12-12-2020 23:16:17: Peer 1001 is sending the 'piece' message for piece 131 to 1003
+12-12-2020 23:16:17: Peer 1001 is sending the 'piece' message for piece 68 to 1002
+12-12-2020 23:16:17: Peer 1001 is sending the 'piece' message for piece 132 to 1003
+12-12-2020 23:16:17: Peer 1001 is sending the 'piece' message for piece 69 to 1002
+12-12-2020 23:16:18: Peer 1001 is sending the 'piece' message for piece 133 to 1003
+12-12-2020 23:16:18: Peer 1001 is sending the 'piece' message for piece 70 to 1002
+12-12-2020 23:16:18: Peer 1001 is sending the 'piece' message for piece 134 to 1003
+12-12-2020 23:16:18: Peer 1001 is sending the 'piece' message for piece 71 to 1002
+12-12-2020 23:16:19: Peer 1001 is sending the 'piece' message for piece 72 to 1002
+12-12-2020 23:16:19: Peer 1001 is sending the 'piece' message for piece 73 to 1002
+12-12-2020 23:16:20: Peer 1001 is sending the 'piece' message for piece 74 to 1002
+12-12-2020 23:16:20: Peer 1001 is sending the 'piece' message for piece 75 to 1002
+12-12-2020 23:16:21: Peer 1001 is sending the 'piece' message for piece 76 to 1002
+12-12-2020 23:16:21: Peer 1001 is sending the 'piece' message for piece 77 to 1002
+12-12-2020 23:16:22: Peer 1001 is sending the 'piece' message for piece 78 to 1002
+12-12-2020 23:16:22: Peer 1001 is sending the 'piece' message for piece 79 to 1002
+12-12-2020 23:16:23: Peer 1001 is sending the 'piece' message for piece 80 to 1002
+12-12-2020 23:16:23: Peer 1001 is sending the 'piece' message for piece 81 to 1002
+12-12-2020 23:16:24: Peer 1001 is sending the 'piece' message for piece 82 to 1002
+12-12-2020 23:16:24: Peer 1001 is sending the 'piece' message for piece 83 to 1002
+12-12-2020 23:16:25: Peer 1001 is sending the 'piece' message for piece 84 to 1002
+12-12-2020 23:16:25: Peer 1001 is sending the 'piece' message for piece 85 to 1002
+12-12-2020 23:16:26: Peer 1001 is sending the 'piece' message for piece 86 to 1002
+12-12-2020 23:16:26: Peer 1001 is sending the 'piece' message for piece 87 to 1002
+12-12-2020 23:16:27: Peer 1001 is sending the 'piece' message for piece 88 to 1002
+12-12-2020 23:16:27: Peer 1001 is sending the 'piece' message for piece 89 to 1002
+12-12-2020 23:16:28: Peer 1001 is sending the 'piece' message for piece 90 to 1002
+12-12-2020 23:16:28: Peer 1001 is sending the 'piece' message for piece 91 to 1002
+12-12-2020 23:16:29: Peer 1001 is sending the 'piece' message for piece 92 to 1002
+12-12-2020 23:16:29: Peer 1001 is sending the 'piece' message for piece 93 to 1002
+12-12-2020 23:16:30: Peer 1001 is sending the 'piece' message for piece 94 to 1002
+12-12-2020 23:16:30: Peer 1001 is sending the 'piece' message for piece 95 to 1002
+12-12-2020 23:16:31: Peer 1001 is sending the 'piece' message for piece 96 to 1002
+12-12-2020 23:16:31: Peer 1001 is sending the 'piece' message for piece 97 to 1002
+12-12-2020 23:16:32: Peer 1001 is sending the 'piece' message for piece 98 to 1002
+12-12-2020 23:16:32: Peer 1001 is sending the 'piece' message for piece 99 to 1002
+12-12-2020 23:16:33: Peer 1001 is sending the 'piece' message for piece 100 to 1002
+12-12-2020 23:16:33: Peer 1001 is sending the 'piece' message for piece 101 to 1002
+12-12-2020 23:16:34: Peer 1001 is sending the 'piece' message for piece 102 to 1002
+12-12-2020 23:16:34: Peer 1001 is sending the 'piece' message for piece 103 to 1002
+12-12-2020 23:16:35: Peer 1001 is sending the 'piece' message for piece 104 to 1002
+12-12-2020 23:16:35: Peer 1001 is sending the 'piece' message for piece 105 to 1002
+12-12-2020 23:16:36: Peer 1001 is sending the 'piece' message for piece 106 to 1002
+12-12-2020 23:16:36: Peer 1001 is sending the 'piece' message for piece 107 to 1002
+12-12-2020 23:16:37: Peer 1001 is sending the 'piece' message for piece 108 to 1002
+12-12-2020 23:16:37: Peer 1001 is sending the 'piece' message for piece 109 to 1002
+12-12-2020 23:16:38: Peer 1001 is sending the 'piece' message for piece 110 to 1002
+12-12-2020 23:16:38: Peer 1001 is sending the 'piece' message for piece 111 to 1002
+12-12-2020 23:16:39: Peer 1001 is sending the 'piece' message for piece 112 to 1002
+12-12-2020 23:16:39: Peer 1001 is sending the 'piece' message for piece 113 to 1002
+12-12-2020 23:16:40: Peer 1001 is sending the 'piece' message for piece 114 to 1002
+12-12-2020 23:16:40: Peer 1001 is sending the 'piece' message for piece 115 to 1002
+12-12-2020 23:16:41: Peer 1001 is sending the 'piece' message for piece 116 to 1002
+12-12-2020 23:16:41: Peer 1001 is sending the 'piece' message for piece 117 to 1002
+12-12-2020 23:16:42: Peer 1001 is sending the 'piece' message for piece 118 to 1002
+12-12-2020 23:16:42: Peer 1001 is sending the 'piece' message for piece 119 to 1002
+12-12-2020 23:16:43: Peer 1001 is sending the 'piece' message for piece 120 to 1002
+12-12-2020 23:16:43: Peer 1001 is sending the 'piece' message for piece 121 to 1002
+12-12-2020 23:16:44: Peer 1001 is sending the 'piece' message for piece 122 to 1002
+12-12-2020 23:16:44: Peer 1001 is sending the 'piece' message for piece 123 to 1002
+12-12-2020 23:16:45: Peer 1001 is sending the 'piece' message for piece 124 to 1002
+12-12-2020 23:16:45: Peer 1001 is sending the 'piece' message for piece 125 to 1002
+12-12-2020 23:16:46: Peer 1001 is sending the 'piece' message for piece 126 to 1002
+12-12-2020 23:16:46: Peer 1001 is sending the 'piece' message for piece 127 to 1002
+12-12-2020 23:16:47: Peer 1001 is sending the 'piece' message for piece 128 to 1002
+12-12-2020 23:16:47: Peer 1001 is sending the 'piece' message for piece 129 to 1002
+12-12-2020 23:16:48: Peer 1001 is sending the 'piece' message for piece 130 to 1002
+12-12-2020 23:16:48: Peer 1001 is sending the 'piece' message for piece 131 to 1002
+12-12-2020 23:16:49: Peer 1001 is sending the 'piece' message for piece 132 to 1002
+12-12-2020 23:16:49: Peer 1001 is sending the 'piece' message for piece 133 to 1002
+12-12-2020 23:16:50: Peer 1001 is sending the 'piece' message for piece 134 to 1002
+12-12-2020 23:16:50: Peer All peers have completed downloading the file.
+12-12-2020 23:16:52: Peer 1001 process has been terminated
